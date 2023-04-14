@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Hi I am Edwin<strong>HC</strong></a> </h1>
-  <img width="500px"   src="https://user-images.githubusercontent.com/51754456/232124736-297b7528-967d-4f71-b433-f5cbc2437f31.png">
+<h1 align="center">Hola, soy <a href="https://github.com/SLAYER-CODE"> | Hi I am , Edwin<strong>HC</strong></a> </h1>
+  <img width="400px"   src="https://user-images.githubusercontent.com/51754456/232124736-297b7528-967d-4f71-b433-f5cbc2437f31.png">
 </div>
 
 
