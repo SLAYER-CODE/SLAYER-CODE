@@ -17,14 +17,14 @@
 - > Me dedico a ayudar a otras personas en mi tiempo libre https://t.me/webprogrammists (17,805+)
 <br>
 
-## Proyectos *bombitas*
+
 
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">Curso Android Básico</h3>
 <div align="center">
-<a href="https://appndcc.web.app/" target="_blank"><img src="[https://i.imgur.com/Jji0CIE.jpg](https://user-images.githubusercontent.com/51754456/232114455-822d6b7d-c018-4e72-928b-423326262fd2.png)" width="400" alt="Mi proximo lanzamiento y desarollo Web"></a>
+<a href="https://appndcc.web.app/" target="_blank"><img src="https://user-images.githubusercontent.com/51754456/232114455-822d6b7d-c018-4e72-928b-423326262fd2.png" width="400" alt="Mi proximo lanzamiento y desarollo Web"></a>
 
 
 <p>
