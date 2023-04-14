@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Hi I am EdwinHC</a> </h1>
-  <img width="300"   src="https://user-images.githubusercontent.com/51754456/232122415-e58d1cbc-58cd-4617-8c7f-4b221b392e18.png">
+  <img width="100px"   src="https://user-images.githubusercontent.com/51754456/232122415-e58d1cbc-58cd-4617-8c7f-4b221b392e18.png">
 
 </div>
 
