@@ -1,8 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Hi I am EdwinHC</a> </h1>
-  <img src="https://user-images.githubusercontent.com/51754456/232122415-e58d1cbc-58cd-4617-8c7f-4b221b392e18.png">
-
 </div>
+
+<img src="https://user-images.githubusercontent.com/51754456/232122415-e58d1cbc-58cd-4617-8c7f-4b221b392e18.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p> Busqueda de software malicioso <strong> en tu empresa </strong> - En esta pagina es posible contratar equipos de analis para detectar amenazas en tu sistema <strong> Remotamente </strong> Todo echo a software libre </p>
 </div>
                                                                                       
 </td>
@@ -52,18 +52,22 @@
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+![image](https://user-images.githubusercontent.com/51754456/232123216-810ea351-28a4-462e-b8bf-aaa7ecbdc8d2.png)
+
+  
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+  
+  
+<a href="https://github.com/awesomeWM/awesome" target="_blank">
+<img src="https://user-images.githubusercontent.com/51754456/232123381-1559c2a5-6f57-4eee-901a-a5f69808d490.png">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+  </p>Una derivacion de awesome, con un thema derivado de yoru, <strong >PROXIMAMENTE</strong></p>
 </div>                                                             
 </table>                                                                                 
 </div>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
