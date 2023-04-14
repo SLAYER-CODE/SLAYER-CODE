@@ -1,7 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Hi I am EdwinHC</a> </h1>
 </div>
-![image](https://user-images.githubusercontent.com/51754456/232115127-7262f581-3c69-4dc0-835e-86290fc84d5d.png)
+![image](https://user-images.githubusercontent.com/51754456/232122415-e58d1cbc-58cd-4617-8c7f-4b221b392e18.png)
+
+
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
