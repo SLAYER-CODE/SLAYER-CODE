@@ -1,8 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Hi I am EdwinHC</a> </h1>
+  <img width="1000"   src="https://user-images.githubusercontent.com/51754456/232122415-e58d1cbc-58cd-4617-8c7f-4b221b392e18.png">
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/51754456/232122415-e58d1cbc-58cd-4617-8c7f-4b221b392e18.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
@@ -13,7 +14,7 @@
 
 - 📲 Junnior developer, Desarollo todo tipo de programas ya sea de escritorio hasta videojuegos en web
 - æ Desarollo sistemas en linux , windows , android 
-- 🎥 Me apaciona en mundo del haking (+24k subs)
+- 🎥 Me apaciona en mundo del ħæĸ→µŋ
 - Me gusta personzalizar sistemas operativos desde 0 y desarollar kernels para android de forma nativa <3
 - > Me dedico a ayudar a otras personas en mi tiempo libre https://t.me/webprogrammists (17,805+)
 <br>
@@ -23,7 +24,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Pagina web proximamente </h3>
 <div align="center">
 <a href="https://appndcc.web.app/" target="_blank"><img src="https://user-images.githubusercontent.com/51754456/232114455-822d6b7d-c018-4e72-928b-423326262fd2.png" width="400" alt="Mi proximo lanzamiento y desarollo Web"></a>
 
@@ -56,9 +57,6 @@
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-![image](https://user-images.githubusercontent.com/51754456/232123216-810ea351-28a4-462e-b8bf-aaa7ecbdc8d2.png)
-
-  
 </a>
   
   
