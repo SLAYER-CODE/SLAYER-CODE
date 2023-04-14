@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p> Busqueda de software malicioso <strong> en tu empresa </strong> - En esta pagina es posible contratar equipos de analis para detectar amenazas en tu sistema <strong> Remotamente </strong> Todo echo a software libre </p>
+<p> Busqueda de software malicioso <strong> en tu empresa </strong> - En esta pagina es posible contratar equipos de análisis para detectar amenazas en tu sistema <strong> Remotamente </strong> Todo echo a software libre </p>
 </div>
                                                                                       
 </td>
