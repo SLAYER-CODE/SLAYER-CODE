@@ -63,7 +63,7 @@
 <img src="https://user-images.githubusercontent.com/51754456/232123381-1559c2a5-6f57-4eee-901a-a5f69808d490.png">
 </a>
 </p>
-  </p>Una derivacion de awesome, con un thema derivado de yoru, <strong >PROXIMAMENTE</strong></p>
+  </p>Una derivacion de awesome, con un tema derivado de yoru, <strong >PROXIMAMENTE</strong></p>
 </div>                                                             
 </table>                                                                                 
 </div>
