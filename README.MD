@@ -4,18 +4,19 @@
 </div>
 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
+[![YouTube Canal ](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@edwinpazss.-1798)
+
+[![Kick Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://kick.com/steanfan22)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+[![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)] (https://discord.gg/cMPrchve)
 
 ## Sobre mi
 
 - 📲 Junnior developer, Desarollo todo tipo de programas ya sea de escritorio hasta videojuegos en web
 - æ Desarollo sistemas en linux , windows , android 
-- 🎥 Me apaciona en mundo del ħæĸ→µŋ
+- 🎥 Me apaciona en mundo del Haking y Desarollo de Software 
 - Me gusta personzalizar sistemas operativos desde 0 y desarollar kernels para android de forma nativa <3
-- > Me dedico a ayudar a otras personas en mi tiempo libre https://t.me/webprogrammists (17,805+)
+- > Me dedico a ayudar a otras personas en mi tiempo libre https://t.me/webprogrammists (4,805+)
 <br>
 
 
@@ -43,13 +44,21 @@
                                                                                       
 </td>
 
+
+
 <td width="50%">
                <br>
 <h3 align="center">Desarollos en base de datos</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://user-images.githubusercontent.com/51754456/232123897-d9cfd904-0203-42ff-b206-cd60fa5be464.png" width="400" alt="Modelo Base de datos UML"></a>
   
+## Tambien desarollo Aplicaciones moviles de forma colavorativa:
 
+
+</a>
+<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<img src="https://i.imgur.com/lo7vft5.png">
+</a>
 
   
 <br>
